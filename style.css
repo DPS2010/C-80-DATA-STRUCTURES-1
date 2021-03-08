@@ -1,0 +1,20 @@
+#sort {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#submit {
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+body {
+    background-image: linear-gradient(to right bottom, #ff0000, #ff3a00, #ff5400, #ff6800, #ff7a00, #ff8a00, #ff9900, #fea800, #fcba00, #f7cc00, #f0dd00, #e6ef00);
+    color:white;
+    
+}
+input {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
